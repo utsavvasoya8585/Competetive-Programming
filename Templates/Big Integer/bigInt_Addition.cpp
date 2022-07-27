@@ -1,5 +1,4 @@
-// jay swaminarayan //
-// UTSAV VASOYA //
+
 #include <iostream>
 #include<vector>
 using namespace std;
